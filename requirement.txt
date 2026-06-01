@@ -1,0 +1,8 @@
+google-genai
+customtkinter
+pillow
+pyttsx3
+SpeechRecognition
+PyAudio
+python-dotenv
+pywhatkit
