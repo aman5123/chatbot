@@ -7,7 +7,7 @@ A modern AI-powered desktop chatbot built with Python, CustomTkinter, and Google
 ### AI Chat
 
 * Powered by Google Gemini
-* Multiple model support
+* Multiple model support 
 
   * Gemini 2.5 Flash
   * Gemini 2.5 Pro
