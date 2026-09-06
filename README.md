@@ -121,9 +121,6 @@ AI_CHATBOT/
 * Web version deployment
 
 ## Author
-
-
-
 Aman
 Computer Science Engineering (AI & Data Science)
 Government Hydro Engineering College 
